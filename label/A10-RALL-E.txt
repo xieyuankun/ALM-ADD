@@ -1,0 +1,10 @@
+speech_04_real.wav real
+speech_03_fake.wav fake
+speech_04_fake.wav fake
+speech_01_real.wav real
+speech_01_fake.wav fake
+speech_02_real.wav real
+speech_05_fake.wav fake
+speech_05_real.wav real
+speech_02_fake.wav fake
+speech_03_real.wav real

@@ -1,0 +1,8 @@
+music_1_fake.wav fake
+music_0_real.wav real
+music_1_real.wav real
+music_2_real.wav real
+music_4_fake.wav fake
+music_0_fake.wav fake
+music_4_real.wav real
+music_2_fake.wav fake
