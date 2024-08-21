@@ -1,0 +1,10 @@
+speech_04_real.wav 0.9453175663948059 real
+speech_03_fake.wav 0.00045798099017702043 fake
+speech_04_fake.wav 0.0012854542583227158 fake
+speech_01_real.wav 0.5200543999671936 real
+speech_01_fake.wav 0.0003759173850994557 fake
+speech_02_real.wav 0.9823832511901855 real
+speech_05_fake.wav 0.00033512545633129776 fake
+speech_05_real.wav 0.04627826064825058 real
+speech_02_fake.wav 0.00045416891225613654 fake
+speech_03_real.wav 0.9492285251617432 real

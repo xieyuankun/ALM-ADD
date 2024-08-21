@@ -1,0 +1,8 @@
+music_1_fake.wav 0.986985981464386 fake
+music_0_real.wav 0.9999747276306152 real
+music_1_real.wav 0.9888945817947388 real
+music_2_real.wav 0.9998321533203125 real
+music_4_fake.wav 0.9998131394386292 fake
+music_0_fake.wav 0.9999737739562988 fake
+music_4_real.wav 0.9997767806053162 real
+music_2_fake.wav 0.9998390674591064 fake
